@@ -35,8 +35,7 @@ The neural network is built with the following specifications:
 To evaluate the model locally without retraining, follow these steps:
 
 **1. Clone the repository & create a Virtual Environment (Recommended)**
-```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <YOUR_REPO_NAME>
+git clone https://github.com/JimNetskas/mlp-from-scratch-cifar10.git
+cd mlp-from-scratch-cifar10
 python -m venv venv
 venv\Scripts\activate  # Use .\venv\Scripts\Activate in PowerShell
